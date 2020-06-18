@@ -1,0 +1,13 @@
+body {
+    background-color: #4ed973;
+}
+
+#canvas {
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(20, 1fr);
+    grid-template-rows: repeat(20, 1fr);
+}
